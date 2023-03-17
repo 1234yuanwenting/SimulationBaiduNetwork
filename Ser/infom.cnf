@@ -1,0 +1,11 @@
+#2021.8.1 yuanwenting
+#
+
+#ips addr
+ips=127.0.0.1
+
+#ser port
+port=6000
+
+#listen
+lismax=5
