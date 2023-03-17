@@ -1,0 +1,1 @@
+okok#buff=lsbuff=getcmd not findok
